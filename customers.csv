@@ -1,0 +1,5 @@
+customer_id,name,location,email
+C001,John Doe,New York,john.doe@example.com
+C002,Alice Smith,California,alice.smith@example.com
+C003,Bob Brown,Texas,bob.brown@example.com
+C004,Emma Wilson,Florida,emma.wilson@example.com
